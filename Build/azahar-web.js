@@ -1,5 +1,5 @@
 const DEFAULT_FRONTEND_HTML_URL =
-  "https://cdn.jsdelivr.net/gh/SomeRandomFella/Azahar-Web/index.html";
+  "https://cdn.jsdelivr.net/gh/Veryeducationing3/lobbert/index.html";
 const DEFAULT_FRONTEND_APP_FILE = "app.js";
 
 function resolveElement(target) {
